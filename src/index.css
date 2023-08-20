@@ -11,3 +11,166 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.nav-head{
+  margin-top: 10px;
+  background-color: #F0F0F0;
+  padding-top: 0px;
+}
+.App-logo {
+  height: 50px;
+  pointer-events: none;
+}
+.logo-title-A {
+  color: #6604A2;
+  font-size: 2.1rem;
+  font-family: 'Kaushan Script';
+  text-shadow: -1px -1px 0px #a62fef, 1px -1px 1px #a62fef, 1px 1px 0 #a62fef;
+}
+
+.logo-title-G {
+  text-shadow: 1px 1px 5px pink;
+  color: #BE0D32;
+  font-size: 1.1rem;
+  font-family: 'Kaushan Script';
+}
+.nav-links {
+  font-weight: bold;
+  transition: 0.9s;
+}
+  
+.nav-links:hover {
+  margin-right: 10px;
+  background-color: #E5D2F0;/*will change background-color of element on hover */
+  
+  }
+.sell-btn-container {
+  justify-content: center;
+  align-items: center;
+}
+.sell-btn {
+  margin-right: 20px;
+  background-color: #6604A2;
+  border: none;
+  padding: 5px 30px;
+  border-radius: 50px;
+}
+
+.sell-btn:hover {
+  background-color: #6504a2da;
+}
+.nav-foot{
+  height:  3px;
+  background-color: #64FFE3;
+
+  
+
+}
+
+.cart-container {
+  margin-left: 10px;
+  display: inline-flex; 
+}
+
+.img-container {
+  margin-bottom: 10px;
+}
+.carousel-item img {
+  object-fit: cover;
+  object-position: center;
+  width: 100%;
+  height: 35vh;
+}
+.col p {
+  font-weight: bold;
+  font-size: 50%;
+  margin: 0;
+}
+.row {
+  gap: 9%;
+  row-gap: 20px;
+ 
+}
+.col {
+  padding: 0;
+}
+
+.img-container {
+  width: 50px;
+  border-radius: 50%;
+  background-color: rgb(231, 230, 227);
+  padding: 5px;
+}
+.img-container img {
+  width: 100%;
+  object-fit: cover;
+}
+.category-row {
+  margin-top: 20px;
+  justify-content: center;
+}
+h6 {
+  margin-top: 25px;
+}
+
+.text-end {
+  border: 2px solid back;
+}
+
+.categories-icon {
+  width: 15px;
+  margin-right: 5px;
+}
+
+.category-icon-container {
+  margin-top: 20px;
+}
+.category-icon-container .col {
+  font-size: 12px;
+  color:  #6604A2;
+}
+.Hotel-card {
+  gap: 0px;
+  row-gap: 10px;
+  
+}
+.Hotel-card .col {
+  gap: 1px;
+}
+
+.search-bar {
+  margin-top: 30px; 
+  justify-items: center;
+}
+.form-cont{
+  max-width: 70%;
+}
+.search-btn {
+  color: #ffffff;
+  margin-right: 20px;
+  margin-left: 20px;
+  background-color: #6604A2;
+  border: none;
+  padding: 0 30px;
+  border-radius: 50px;
+}
+.search-btn:hover {
+  background-color: #6504a2da;
+}
+
+.searchfield-row {
+  justify-content: center;
+}
+
+.card {
+  border: 1px solid rgb(234, 233, 233);
+  margin: 2px;
+  padding: 0px;
+}
+.card:hover {
+  box-shadow: 1px 1px 2px #6504a239 ;
+}
+
+.Button {
+  background-color: #6604A2;
+}
