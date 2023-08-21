@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.f5555ed7.css",
+    "main.js": "/react-gh-pages/static/js/main.11c556ea.js",
+    "static/js/787.32032a02.chunk.js": "/react-gh-pages/static/js/787.32032a02.chunk.js",
+    "static/media/Hotel1.jpg": "/react-gh-pages/static/media/Hotel1.6fb6957da2e7b4f80c9f.jpg",
+    "static/media/logo.png": "/react-gh-pages/static/media/logo.021d22889abfbb6f03da.png",
+    "static/media/img2.jpg": "/react-gh-pages/static/media/img2.2621036fc4eb5ff001cb.jpg",
+    "static/media/img1.jpg": "/react-gh-pages/static/media/img1.45c23b6cc80f4ffd38a1.jpg",
+    "static/media/img3.jpg": "/react-gh-pages/static/media/img3.50933b414b4b5a51e7b2.jpg",
+    "static/media/housesale.png": "/react-gh-pages/static/media/housesale.5b3c987bef086deb2291.png",
+    "static/media/car.png": "/react-gh-pages/static/media/car.f8ba14ae3e4e1568d03b.png",
+    "static/media/houserent.png": "/react-gh-pages/static/media/houserent.ad2e424c06152335989f.png",
+    "static/media/hotel.png": "/react-gh-pages/static/media/hotel.10faf0d3dde6578828f6.png",
+    "static/media/categoriesicon.png": "/react-gh-pages/static/media/categoriesicon.01d6220fdfc21bbe301f.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.f5555ed7.css.map": "/react-gh-pages/static/css/main.f5555ed7.css.map",
+    "main.11c556ea.js.map": "/react-gh-pages/static/js/main.11c556ea.js.map",
+    "787.32032a02.chunk.js.map": "/react-gh-pages/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5555ed7.css",
+    "static/js/main.11c556ea.js"
+  ]
+}
